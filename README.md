@@ -1,5 +1,6 @@
-# Team Dementors : 
+# Booking.hotel 
 #### [Github](https://github.com/gopinathsjsu/team-project-the-dementors/) | [Sprint Sheet](https://github.com/gopinathsjsu/team-project-the-dementors/blob/main/Sprint%20Sheet%20Team%20Dementors-1.xlsx) | [Project Journal](https://github.com/gopinathsjsu/team-project-the-dementors/blob/main/CMPE-202%20Project%20Journal%20(1).docx) | [Project Board](https://github.com/gopinathsjsu/team-project-the-dementors/projects/1)
+
 ### Team Members:    
 1. Ashika Anand Babu   
 2. Ramya Mahesh   
@@ -23,41 +24,6 @@
 3. [DB Design](https://github.com/gopinathsjsu/team-project-the-dementors/blob/main/updated-database-design.pdf)
 4. [Wireframes](https://github.com/gopinathsjsu/team-project-the-dementors/tree/main/Wireframes)
 5. [Deployment Diagram] (https://github.com/gopinathsjsu/team-project-the-dementors/blob/main/Deployment.pdf)
-
-### Team Member Contributions:
-#### 1. Anusha Gangasani:    
-   1. Implementation, Integration and testing of user, login and registration api
-   2. Implementation, Integration and testing of saveBooking and updateBooking api.
-   3. Implementation, Integration and testing of saveCustomer, updateCustomer api.
-   4. Deployment of backend service in AWS.
-   5. Deployment of RDS and populating mock data. 
-   6. UI Integration
-   7. Bug Fixes.
-
-#### 2. Ashika Anand Babu:  
-   1. Implementaion, Integration and testing of Cancel screen
-   2. Implementaion, Integration and testing of Confirm screen
-   3. Implementaion, Integration and testing of Bookings by a customer screen
-   4. Implementaion, Integration and testing of Bookings for an hotel screen
-   5. Implementaion, Integration and testing of Profile screen
-#### 4. Ramya Mahesh:  
-   1. Implementation, Integration and testing of getHotels, getHotelBooking and getRooms api
-   2. Implementation, Integration and testing of checkRoomAvailability api.
-   3. Implementation, Integration and testing of getAmenities, getAmenities api. 
-   4. Implementation, Integration and testing of dynamic pricing. 
-   5. Deployment of backend service in AWS.
-   6. Deployment of RDS and populating mock data. 
-   7. UI Integration
-   8. Bug Fixes.
-#### 5. Shruthi Srinivasan:        
-   1. Implementaion, Integration and testing of Login screen
-   2. Implementaion, Integration and testing of Signup screen
-   3. Implementaion, Integration and testing of Search screen
-   4. Implementaion, Integration and testing of List of hotels screen
-   5. Implementaion, Integration and testing of Hotel Details screen   
-   6. Implementaion, Integration and testing of Booking Confirmation screen
-
-
 
 ### XP values followed: 
 1. Communication : Communicated openly on the expectations of each stories, dependencies and implementation methods. We used to meet once in a week on  Mondays, to discuss the status, issues/blockers and what has been worked on till date. Prioritize the features which has more dependency. Highlight Blockers. 
